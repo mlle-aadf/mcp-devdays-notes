@@ -5,7 +5,7 @@
 
 Workshop Repo[https://github.com/microsoft/mcp-for-beginners/]
 
-browse MCPs[https://code.visualstudio.com/mcp]
+Browse MCPs[https://code.visualstudio.com/mcp] for agent mode
 
 
 ## Gen Notes
@@ -35,6 +35,7 @@ browse MCPs[https://code.visualstudio.com/mcp]
 Github MCP; 
 - create issues, PRs 
 - add feature > 'assign to agent' (look for Assign to Copilot)
+- Neon DP?
 
 
 Community MCP Registry[https://github.com/modelcontextprotocol/registry/tree/main]
@@ -55,6 +56,11 @@ Epic AI[https://www.epicai.pro/]
 GibsonAI? > db MCP server
 
 
+## Visual Studio Productivity
+- building custom MCP servers
+
+
 ** post workshop **
 - test create repo > MCP DevDays workshop
+- understanding mcp.json file setup/config
 - NL Web + EpicAI
