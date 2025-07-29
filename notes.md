@@ -17,7 +17,7 @@ Browse MCPs[https://code.visualstudio.com/mcp] for agent mode
 
 
 
-### Day 1 - DevTools;
+### Day 1 - DevTools ________________________
 
 ## ANTHROPIC
 - elicitation phase?
@@ -59,8 +59,18 @@ GibsonAI? > db MCP server
 ## Visual Studio Productivity
 - building custom MCP servers
 
+## __________________________
 
 ** post workshop **
 - test create repo > MCP DevDays workshop
-- understanding mcp.json file setup/config
+- understanding mcp.json file setup/config (1)
 - NL Web + EpicAI
+
+1. **MCP.json Setup Brief:**
+   - Location: `%APPDATA%\Code\User\mcp.json` (global VS Code config)
+   - Install MCP server: `npm install -g @modelcontextprotocol/server-github`
+   - Create GitHub Personal Access Token with 'repo' scope
+   - Configure server type as "stdio" with npx command
+   - Set GITHUB_PERSONAL_ACCESS_TOKEN in env variables
+   - Restart VS Code to load configuration
+   - Verify server connection through Copilot Chat capabilities
