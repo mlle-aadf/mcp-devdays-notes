@@ -8,6 +8,7 @@ Workshop Repo[https://github.com/microsoft/mcp-for-beginners/]
 Browse MCPs[https://code.visualstudio.com/mcp] for agent mode
 
 
+
 ## Gen Notes
 - mcp.json > check server is started
 - user settings > auto approve
@@ -59,7 +60,7 @@ GibsonAI? > db MCP server
 ## Visual Studio Productivity
 - building custom MCP servers
 
-## __________________________
+## ___
 
 ** post workshop **
 - test create repo > MCP DevDays workshop
@@ -73,4 +74,4 @@ GibsonAI? > db MCP server
    - Configure server type as "stdio" with npx command
    - Set GITHUB_PERSONAL_ACCESS_TOKEN in env variables
    - Restart VS Code to load configuration
-   - Verify server connection through Copilot Chat capabilities
+   - Verify server connection through Copilot Chat capabilities 
